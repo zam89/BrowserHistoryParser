@@ -28,12 +28,12 @@ Figure 2 – BrowserHistoryParser with -h (help) parameter
 Figure 3 – BrowserHistoryParser processing Chrome and Edge History artifacts
 
 ### Example Outputs
-<kbd>![](screenshot/.png)</kbd>
+<kbd>![](screenshot/BrowserHistoryParser_Output1.png)</kbd>
 
 Figure 4 – Example of parsed Chrome History artifacts
 
 
-<kbd>![](screenshot/.png)</kbd>
+<kbd>![](screenshot/BrowserHistoryParser_Output2.png)</kbd>
 
 Figure 5 – Example of parsed Chrome History artifact (notice the 3 separated sheet below; representing table extracted from artifact)
 
